@@ -1,11 +1,13 @@
 {
 	"commentStamp" : "",
-	"super" : "Money",
+	"super" : "Object",
 	"category" : "TDD-Money",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
-	"name" : "Franc",
+	"instvars" : [
+		"amount"
+	],
+	"name" : "Money",
 	"type" : "normal"
 }
