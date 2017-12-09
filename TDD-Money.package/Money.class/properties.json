@@ -6,7 +6,8 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"amount"
+		"amount",
+		"currency"
 	],
 	"name" : "Money",
 	"type" : "normal"

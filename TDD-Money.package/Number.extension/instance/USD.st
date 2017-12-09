@@ -1,3 +1,3 @@
 *TDD-Money
 USD
-	^ Dollar new amount: self; yourself
+	^ Money amount: self currency: #USD
