@@ -1,3 +1,6 @@
 arithmetic
 * multiplier
-	^ (amount * multiplier) perform: currency
+	multiplier isNumber
+		ifTrue: [ ^ amount * multiplier perform: currency ].
+	self assert: multiplier fromCurrency == currency.
+	^ amount * multiplier xRate perform: multiplier toCurrency
