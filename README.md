@@ -7,3 +7,4 @@
 - [第1回 はじめてのレッド、イエロー、グリーン](https://qiita.com/sumim/items/fa41066c57d211814ff9)　[[この時点のコード]](https://github.com/sumim/tdd-money/tree/lecture01/TDD-Money.package)
 - [第2回 等価性チェックと乗算の実装](https://qiita.com/sumim/items/8dad7cd261a37aa075db)　[[この時点のコード]](https://github.com/sumim/tdd-money/tree/lecture02/TDD-Money.package)
 - [第3回 Dollar の単純な複製を Franc に仕立てる](https://qiita.com/sumim/items/264d7cb7446850e13372)　[[この時点のコード]](https://github.com/sumim/tdd-money/tree/lecture03/TDD-Money.package)
+- [第4回 スーパークラス Money を作る](https://qiita.com/sumim/items/74795eaad23fafbdb2fd)　[[この時点のコード]](https://github.com/sumim/tdd-money/tree/lecture04/TDD-Money.package)
