@@ -1,0 +1,3 @@
+*TDD-Money
+isMoney
+	^ false

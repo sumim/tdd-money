@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "TDD-Money",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"fromToCurrency",
+		"xRate"
+	],
+	"name" : "MoneyXRate",
+	"type" : "normal"
+}
