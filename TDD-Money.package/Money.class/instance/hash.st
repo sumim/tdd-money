@@ -1,3 +1,3 @@
 comparing
 hash
-	^ 0
+	^ currency hash bitXor: amount hash

@@ -1,0 +1,3 @@
+accessing
+toCurrency
+	^ fromToCurrency value
