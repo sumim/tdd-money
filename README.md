@@ -10,3 +10,4 @@
 - [第4回 スーパークラス Money を作る](https://qiita.com/sumim/items/74795eaad23fafbdb2fd)　[[この時点のコード]](https://github.com/sumim/tdd-money/tree/lecture04/TDD-Money.package)
 - [第5回 Money の具象クラス化と Dollar、Franc の廃止](https://qiita.com/sumim/items/b8ddc1d432ca5e0aaab5)　[[この時点のコード]](https://github.com/sumim/tdd-money/tree/lecture05/TDD-Money.package)
 - [第6回 Moneyの乗除算で通貨換算](https://qiita.com/sumim/items/07f543956904c3cfcf2d)　[[この時点のコード]](https://github.com/sumim/tdd-money/tree/lecture06/TDD-Money.package)
+- [第7回 MoneyBagに異種通貨同士の加算を保持](https://qiita.com/sumim/items/16b84a2f875a5aa10555)　[[この時点のコード]](https://github.com/sumim/tdd-money/tree/lecture07/TDD-Money.package)
