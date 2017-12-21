@@ -1,5 +1,6 @@
 tests
 testExchangeMoney
-	| aMoneyXRate |
-	aMoneyXRate := 1 USD / 2 CHF.
-	self assert: 10 CHF * aMoneyXRate equals: 5 USD
+	| bank |
+	bank := Bank new.
+	bank addXRate: 1 USD / 2 CHF.
+	self assert: (bank exchange: 10 CHF to: #USD) equals: 5 USD
