@@ -12,3 +12,4 @@
 - [第6回 Moneyの乗除算で通貨換算](https://qiita.com/sumim/items/07f543956904c3cfcf2d)　[[この時点のコード]](https://github.com/sumim/tdd-money/tree/lecture06/TDD-Money.package)
 - [第7回 MoneyBagに異種通貨同士の加算を保持](https://qiita.com/sumim/items/16b84a2f875a5aa10555)　[[この時点のコード]](https://github.com/sumim/tdd-money/tree/lecture07/TDD-Money.package)
 - [第8回 MoneyBagを少しだけBagらしくする](https://qiita.com/sumim/items/fb55c8a3ed8b8704cfa7)　[[この時点のコード]](https://github.com/sumim/tdd-money/tree/lecture08/TDD-Money.package)
+- [第9回 MoneyやMoneyBagがらみの乗加算をダブルディスパッチに変える](https://qiita.com/sumim/items/ec12c201118b77303e96)　[[この時点のコード]](https://github.com/sumim/tdd-money/tree/lecture09/TDD-Money.package)
